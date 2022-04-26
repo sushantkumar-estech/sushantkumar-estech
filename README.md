@@ -1,4 +1,4 @@
-### Hi there.It's Sushant 👋. Hardware Developer by Profession and Trying to be Full Stack Developer as hobbyist
+### Hi there.It's Sushant 👋.
 
 Gist about me:
 
@@ -6,7 +6,7 @@ Gist about me:
 - 🌱 I’m currently learning machine learning implementation on FPGA, Edge computing
 - 👯 I’m looking to collaborate on freelancing projects, Research work, Paper publication, Blog writing
 - 🤔 I’m looking for help with new projects
-- 💬 Ask me about machine learning, python programming, FPGA implementation
+- 💬 Ask me about Data Analysis, Machine learning, FPGA development
 - 📫 How to reach me: sushantestech@outlook.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
